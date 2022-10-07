@@ -1,6 +1,6 @@
-# Exerc-cios-POO1
+# Exercicios-POO1
 
-Exercícios – Introdução a POO
+Exercicios – Introdução a POO
 
 1. Faça um programa que peça ao usuário nome e sobrenome separadamente
 e após junte-os com a mensagem “Seu nome completo é: Nome
