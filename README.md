@@ -1,7 +1,7 @@
 # Exerc-cios-POO1
 
 Exercícios – Introdução a POO
-Prof. Rodrigo Curvêllo MSc. – rodrigo.curvello@gmail.com – http://curvello.com
+
 1. Faça um programa que peça ao usuário nome e sobrenome separadamente
 e após junte-os com a mensagem “Seu nome completo é: Nome
 SobreNome”;
